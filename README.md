@@ -1,1 +1,1 @@
-# icinga-secret
+# icinga-testconfig
